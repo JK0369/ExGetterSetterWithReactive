@@ -1,0 +1,6 @@
+framework module Pods_ExGetterSetter_ExGetterSetterUITests {
+  umbrella header "Pods-ExGetterSetter-ExGetterSetterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
